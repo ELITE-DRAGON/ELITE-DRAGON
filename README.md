@@ -1,6 +1,5 @@
 # 💫 About Me:
-We are a team<br>We are from:<br>Web programming<br>Android programming<br>Tool writing<br>Web hacker<br>and network experts were formed
-
+### HI MY NAME IS BILL IM PROGRAMMER AND BUG HUBTER 
 
 ## 🌐 Socials:
 [![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?logo=Reddit&logoColor=white)](https://reddit.com/user/ELITE-DRAGON) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/ELITE__DRAGON) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@ELITE.DRAGON) [![Codepen](https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white)](https://codepen.io/ELITE-DRAGON) [![Mastodon](https://img.shields.io/badge/-MASTODON-%232B90D9?style=for-the-badge&logo=mastodon&logoColor=white)](https://mastodon.social/@selite470@gmail.com) 
